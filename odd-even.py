@@ -1,7 +1,7 @@
-num=float(input())
-if num<0:
+a=float(input())
+if a<0:
 	print("Ivalid")
-if num%2==0:
+if a%2==0:
 	print("Even")
 else:
 	print("Odd")
